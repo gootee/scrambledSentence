@@ -1,0 +1,11 @@
+.instructions {
+  margin: 15px;
+}
+
+.scrambledSentence {
+  color: rgb(15, 86, 153);
+  font-weight: 450;
+  font-size:170%;
+  margin: 0 0 20px 0;
+}
+

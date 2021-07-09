@@ -1,0 +1,27 @@
+.Main {
+  background-color: white;
+}
+
+.guess-inputs {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.letter {
+  color: white
+}
+
+.top {
+  padding: 30px;
+}
+
+#nextSentence {
+  background-color: #388e3c;
+  color: white;
+  font-size: large;
+  width: 90px;
+  padding: 10px;
+  margin: 0 0 10px 0
+}

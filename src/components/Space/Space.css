@@ -1,0 +1,10 @@
+.space {
+  font-size: 25px;
+  padding: 5px;
+  flex: 1;
+  min-height: 0;
+  min-width: 0;
+  background-color:  #ffb74d;
+  margin: 5px;
+  border: 0px;
+}
